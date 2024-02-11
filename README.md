@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Ecommerce App (MERN Stack)<br><br>🌱 I’m currently learning MERN Stack Development<br><br>👨‍💻 All of my projects are available at https://github.com/imRkofficial<br><br>💬 Ask me about React.js, MongoDB, Node.js & Express.js<br><br>📫 How to reach me rkbagra0490@gmail.com
+🔭 I’m currently working on Course Selling App (MERN Stack)<br><br>🌱 I’m currently learning MERN Stack Development<br><br>👨‍💻 All of my projects are available at https://github.com/imRkofficial<br><br>💬 Ask me about React.js, MongoDB, Node.js & Express.js<br><br>📫 How to reach me rkbagra0490@gmail.com
 
 
 ## 🌐 Socials:
