@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Aora React Native Project<br><br>🌱 I’m currently learning GO<br><br>👨‍💻 All of my projects are available at https://github.com/imRkofficial<br><br>💬 Ask me about React.js,React Native, MongoDB, Node.js & Express.js<br><br>📫 How to reach me rkbagra0490@gmail.com
+🌱 I’m currently learning Solana Development, Rust<br><br>👨‍💻 All of my projects are available at https://github.com/imRkofficial<br><br>💬 Ask me about React.js,React Native, MongoDB, Node.js & Express.js<br><br>📫 How to reach me rkbagra0490@gmail.com
 
 
 ## 🌐 Socials:
